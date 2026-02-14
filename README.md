@@ -32,7 +32,6 @@
 <div align="center">
 
   <!-- Cloud -->
-  <h3>☁️ Cloud</h3>
   <a href="https://aws.amazon.com/">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900">
   </a>
@@ -57,7 +56,6 @@
   <br><br>
 
   <!-- Kubernetes / Platform -->
-  <h3>🧱 Kubernetes & Platform</h3>
   <a href="https://kubernetes.io/">
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   </a>
@@ -73,7 +71,6 @@
   <br><br>
 
   <!-- IaC -->
-  <h3>🏗 IaC</h3>
   <a href="https://www.terraform.io/">
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
   </a>
@@ -112,7 +109,6 @@
   <br><br>
 
   <!-- Ops -->
-  <h3>🧑‍💻 Ops</h3>
   <a href="https://www.linux.org/">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   </a>
