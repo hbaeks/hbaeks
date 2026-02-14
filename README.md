@@ -50,9 +50,6 @@
   <a href="https://www.tencentcloud.com/">
   <img src="https://img.shields.io/badge/Tencent%20Cloud-0064FF?style=for-the-badge&logo=tencentcloud&logoColor=white">
 </a>
-<a href="https://www.samsungsds.com/kr/cloud.html">
-  <img src="https://img.shields.io/badge/Samsung%20Cloud-1428A0?style=for-the-badge&logo=samsung&logoColor=white">
-</a>
   <br><br>
 
   <!-- Kubernetes / Platform -->
