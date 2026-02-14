@@ -148,3 +148,6 @@ sequenceDiagram
   GH->>ARGO: Sync
   ARGO->>K8S: Deploy
   K8S-->>ARGO: Health Check
+
+---
+
