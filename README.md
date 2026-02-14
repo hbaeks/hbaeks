@@ -1,4 +1,4 @@
-<h1 align="center">HBAEKS</h1>
+<h1 align="center">SANG HEON BAEK</h1>
 <p align="center">
   <b>Infrastructure Specialist · SRE · DevSecOps · Platform Engineering</b><br/>
   Reliability · Multi-Cloud · Kubernetes · Observability · FinOps · Team Leadership
