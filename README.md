@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://github.com/hbaeks">GitHub</a> ·
-  <a href="mailto:YOUR_EMAIL">Email</a> ·
-  <a href="YOUR_LINKEDIN">LinkedIn</a>
+  <a href="mailto:paekhoen@gmail.com">Email</a> ·
+  <a href="www.linkedin.com/in/paekheon">LinkedIn</a>
 </p>
 
 <p align="center">
