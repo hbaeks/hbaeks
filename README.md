@@ -27,77 +27,104 @@
 
 ---
 
-## 🧰 Core Technology Stack
+## 🧰 Core Technology Stackqqq
 
-### ☁️ Cloud Platforms
-<p>
+<div align="center"><h2>🧰 STACKS</h2></div>
+
+<div align="center">
+
+  <!-- Cloud -->
+  <h3>☁️ Cloud</h3>
   <a href="https://aws.amazon.com/">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900">
   </a>
   <a href="https://azure.microsoft.com/">
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
   </a>
   <a href="https://cloud.google.com/">
-    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
   </a>
   <a href="https://www.ncloud.com/">
-    <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white">
   </a>
   <a href="https://www.alibabacloud.com/">
-    <img src="https://img.shields.io/badge/Alibaba%20Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Alibaba%20Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white">
   </a>
-</p>
+  <br><br>
 
----
-
-### 🏗 Infrastructure as Code (IaC)
-<p>
-  <a href="https://www.terraform.io/">
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <!-- Kubernetes / Platform -->
+  <h3>🧱 Kubernetes & Platform</h3>
+  <a href="https://kubernetes.io/">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   </a>
-  <a href="https://aws.amazon.com/cloudformation/">
-    <img src="https://img.shields.io/badge/AWS%20CloudFormation-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <a href="https://aws.amazon.com/eks/">
+    <img src="https://img.shields.io/badge/Amazon%20EKS-232F3E?style=for-the-badge&logo=amazoneks&logoColor=FF9900">
   </a>
-  <a href="https://www.ansible.com/">
-    <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   </a>
   <a href="https://helm.sh/">
-    <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🔄 CI / CD & Automation
-<p>
-  <a href="https://github.com/features/actions">
-    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  </a>
-  <a href="https://www.jenkins.io/">
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">
   </a>
   <a href="https://argo-cd.readthedocs.io/">
-    <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white">
   </a>
-</p>
+  <br><br>
 
----
+  <!-- IaC -->
+  <h3>🏗 IaC</h3>
+  <a href="https://www.terraform.io/">
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
+  </a>
+  <a href="https://aws.amazon.com/cloudformation/">
+    <img src="https://img.shields.io/badge/CloudFormation-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900">
+  </a>
+  <a href="https://www.ansible.com/">
+    <img src="https://img.shields.io/badge/Ansible-111111?style=for-the-badge&logo=ansible&logoColor=white">
+  </a>
+  <br><br>
 
-### 📊 Observability & Monitoring
-<p>
+  <!-- CI/CD -->
+  <h3>🔄 CI/CD</h3>
+  <a href="https://github.com/features/actions">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-111111?style=for-the-badge&logo=githubactions&logoColor=white">
+  </a>
+  <a href="https://www.jenkins.io/">
+    <img src="https://img.shields.io/badge/Jenkins-111111?style=for-the-badge&logo=jenkins&logoColor=white">
+  </a>
+  <br><br>
+
+  <!-- Observability -->
+  <h3>📊 Observability</h3>
   <a href="https://prometheus.io/">
-    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Prometheus-111111?style=for-the-badge&logo=prometheus&logoColor=E6522C">
   </a>
   <a href="https://grafana.com/">
-    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Grafana-111111?style=for-the-badge&logo=grafana&logoColor=F46800">
   </a>
   <a href="https://newrelic.com/">
-    <img src="https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white"/>
+    <img src="https://img.shields.io/badge/New%20Relic-111111?style=for-the-badge&logo=newrelic&logoColor=1CE783">
   </a>
   <a href="https://www.datadoghq.com/">
-    <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Datadog-111111?style=for-the-badge&logo=datadog&logoColor=632CA6">
   </a>
-</p>
+  <br><br>
+
+  <!-- Ops -->
+  <h3>🧑‍💻 Ops</h3>
+  <a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624">
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032">
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+</div>
+
+
 
 ---
 
