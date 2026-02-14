@@ -86,7 +86,6 @@
   <br><br>
 
   <!-- CI/CD -->
-  <h3>🔄 CI/CD</h3>
   <a href="https://github.com/features/actions">
     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
   </a>
@@ -99,7 +98,6 @@
   <br><br>
 
   <!-- Observability -->
-  <h3>📊 Observability</h3>
    <a href="https://newrelic.com/">
     <img src="https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white">
   </a>
