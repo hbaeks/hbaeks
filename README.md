@@ -31,47 +31,37 @@
 
 ### ☁️ Cloud Platforms
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Naver_Cloud-03C75A?style=flat&logo=naver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white"/>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  </a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  </a>
+  <a href="https://www.ncloud.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+  </a>
+  <a href="https://www.alibabacloud.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Alibaba%20Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" />
+  </a>
 </p>
-
----
-
-### 🐳 Container & Orchestration
-<p>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white"/>
-</p>
-
----
-
-### 🏗 Infrastructure as Code
-<p>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white"/>
-</p>
-
----
-
-### 🔄 CI/CD & Automation
-<p>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
-</p>
-
----
 
 ### 📊 Observability & Monitoring
 <p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/New_Relic-1CE783?style=flat&logo=newrelic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white"/>
+  <a href="https://prometheus.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  </a>
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  </a>
+  <a href="https://newrelic.com/" target="_blank">
+    <img src="https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white" />
+  </a>
+  <a href="https://www.datadoghq.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+  </a>
 </p>
 
 ---
