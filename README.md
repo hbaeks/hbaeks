@@ -50,7 +50,7 @@
   <a href="https://www.tencentcloud.com/">
   <img src="https://img.shields.io/badge/Tencent%20Cloud-0064FF?style=for-the-badge&logo=tencentcloud&logoColor=white">
 </a>
-  <br><br>
+  <br>
 
   <!-- Kubernetes / Platform -->
   <a href="https://kubernetes.io/">
@@ -65,7 +65,7 @@
   <a href="https://helm.sh/">
     <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">
   </a>
-  <br><br>
+  <br>
 
   <!-- IaC -->
   <a href="https://www.terraform.io/">
@@ -77,7 +77,7 @@
   <a href="https://aws.amazon.com/cloudformation/">
     <img src="https://img.shields.io/badge/CloudFormation-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900">
   </a>
-  <br><br>
+  <br>
 
   <!-- CI/CD -->
   <a href="https://github.com/features/actions">
@@ -89,7 +89,7 @@
     <a href="https://argo-cd.readthedocs.io/">
     <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white">
   </a>
-  <br><br>
+  <br>
 
   <!-- Observability -->
    <a href="https://newrelic.com/">
@@ -103,7 +103,7 @@
   </a>
   <a href="https://grafana.com/">
     <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
-  <br><br>
+  <br>
 
   <!-- Ops -->
   <a href="https://www.linux.org/">
