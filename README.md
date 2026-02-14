@@ -133,6 +133,10 @@ flowchart TB
   APM --> NR[New Relic]
   APM --> DD[Datadog]
   GRAF --> ALERT[Alerting]
+  ```
+
+
+```mermaid
 sequenceDiagram
   participant Dev as Developer
   participant GH as GitHub
@@ -140,9 +144,7 @@ sequenceDiagram
   participant REG as Container Registry
   participant ARGO as Argo CD
   participant K8S as Kubernetes (EKS)
-  ```
-
-  ```mermaid
+ 
   Dev->>GH: Push / Merge
   GH->>GA: Trigger CI
   GA->>GA: Test & Build
