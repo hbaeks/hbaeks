@@ -122,7 +122,9 @@ flowchart LR
   SVC --> CACHE[(Cache)]
   SVC --> MQ[(Message Queue)]
   SVC --> EXT[External APIs]
+  ```
 
+```mermaid
 flowchart TB
   APP[Apps / Pods] -->|metrics| PROM[Prometheus]
   PROM --> GRAF[Grafana]
@@ -131,7 +133,6 @@ flowchart TB
   APM --> NR[New Relic]
   APM --> DD[Datadog]
   GRAF --> ALERT[Alerting]
-
 sequenceDiagram
   participant Dev as Developer
   participant GH as GitHub
@@ -139,7 +140,9 @@ sequenceDiagram
   participant REG as Container Registry
   participant ARGO as Argo CD
   participant K8S as Kubernetes (EKS)
+  ```
 
+  ```mermaid
   Dev->>GH: Push / Merge
   GH->>GA: Trigger CI
   GA->>GA: Test & Build
@@ -148,6 +151,4 @@ sequenceDiagram
   GH->>ARGO: Sync
   ARGO->>K8S: Deploy
   K8S-->>ARGO: Health Check
-
----
-
+```
